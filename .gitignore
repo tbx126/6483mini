@@ -1,2 +1,4 @@
 __pycache__/
 mini/
+.vscode/
+dataset/
